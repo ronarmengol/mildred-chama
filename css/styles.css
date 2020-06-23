@@ -10589,3 +10589,13 @@ section#contact form#contactForm :-ms-input-placeholder {
             transform: scale3d(1, 1, 1);
   }
 }
+
+.color img {
+  filter: saturate(20%);
+  transition: 5s ease;
+}
+
+.color img:hover {
+  filter: saturate(90%);
+  transition: 1s ease;
+}
