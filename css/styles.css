@@ -10602,3 +10602,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   filter: saturate(90%);
   transition: 1s ease;
 }
+
+.opaque {
+  opacity: 0.5;
+}
