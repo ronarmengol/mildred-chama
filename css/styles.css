@@ -10141,8 +10141,9 @@ header.masthead {
   padding-bottom: 8rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/com3-bg.jpg");
-  height: 100%;
+  /* background-image: url("../assets/img/com3-bg.jpg"); */
+  background-image: url(https://media.giphy.com/media/VJ5r0duSMDvcPjPGpc/giphy.gif);
+  height: 100vh;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center;
