@@ -10606,3 +10606,10 @@ section#contact form#contactForm :-ms-input-placeholder {
 .opaque {
   opacity: 0.5;
 }
+
+#pos1 {
+  position: absolute;
+  bottom: 10%;
+  left: 50%;
+  transform: translate(-104px);
+}
